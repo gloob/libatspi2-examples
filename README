@@ -1,0 +1,12 @@
+Description
+===========
+
+A collection of examples using libatspi2.
+
+Build
+=====
+
+- Install cmake
+- cmake src_directory
+- make
+- ./test_ATSPI
